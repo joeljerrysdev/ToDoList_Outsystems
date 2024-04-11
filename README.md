@@ -1,8 +1,10 @@
 # ToDoList_Outsystems
 
 
+<div> 
+  ![preview](./.github/picture1.jpg)
+</div>
 
-![preview](./.github/picture1.jpg)
 
 > Outsytems mobile App
 
@@ -17,7 +19,6 @@ Funcionalidade do App:
 ## 🛠 Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Outsystems" height="30" width="40" src="https://www.outsystems.com/-/media/themes/outsystems/website/site-theme/imgs/logo.svg?updated=20211217193441">
    <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
