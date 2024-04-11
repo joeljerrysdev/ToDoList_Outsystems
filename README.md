@@ -1,9 +1,6 @@
 # ToDoList_Outsystems
 
 
-<div> 
-  ![preview](./.github/picture1.jpg)
-</div>
 
 
 > Outsytems mobile App
