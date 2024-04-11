@@ -2,7 +2,7 @@
 
 
 
-![preview](./.github/Tela 1.png)
+![preview](./.github/picture1.jpg)
 
 > Outsytems mobile App
 
